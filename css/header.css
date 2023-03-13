@@ -1,0 +1,10 @@
+.header {
+    text-align: center;
+    color: #36454F;
+    text-shadow: 2px 5px 10px #36454F;
+    padding: 0px 0px 20px 0px;
+}
+
+.header__image {
+    max-width: 60%;
+}
