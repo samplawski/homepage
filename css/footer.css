@@ -1,16 +1,31 @@
 .footer {
     text-align: center;
+    margin: 30px;
     padding: 20px;
     font-size: 15px;
 }
 
 .footer__link {
-    text-decoration: none;
     color: cadetblue;
+    text-decoration: none;
 }
 
 .footer__link:hover {
     color: #ff0000;
     border-bottom: 1px solid;
     outline: none;
+    font-size: 16px;
+}
+
+.footer__link--git {
+    max-width: 30px;
+    max-height: 30px;
+    border-radius: 50%;
+}
+
+.footer__link--git:hover {
+    text-decoration: none;
+    border-bottom: none;
+    max-width: 35px;
+    max-height: 35px;
 }
