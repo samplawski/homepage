@@ -3,21 +3,21 @@ a few words about me
 
 You can visit the page under this [LINK](https://samplawski.github.io/homepage/)
 
-<img src="https://i.postimg.cc/d3FtnG0V/Tomek.jpg" width="25%" alt="Tomasz Samplawski">
+<img src="./images/screenshot.jpg" width="45%" alt="Tomasz Samplawski - homepage">
 
 This repository contains the code for my first personal website.
 ## Table of contents
-- General info
-- Technologies
-- Setup
-- Features
-- Status
-- Contact
+1. General info
+2. Technologies
+3. Setup
+4. Features
+5. Status and Contributing
+6. Contact
 
-## General info
+## 1. General info
 
 This website is my personal project, which aims to showcase my skills and experience as a Frontend Developer. The website contains information about my current work, future plans and a short biography.
-## Technologies
+## 2. Technologies
 
 The website is created with:
 - HTML5
@@ -26,7 +26,7 @@ The website is created with:
 - BEM methodology
 - Normalize.css version 8.0.1
 
-## Setup
+## 3. Setup
 
 To run this project, clone the repository and open the index.html file in your browser. You can follow the below instructions.
 
@@ -38,7 +38,7 @@ $ cd homepage
 
 $ open index.html  
 
-## Features
+## 4. Features
 
 The main features of the website are:
 
@@ -49,9 +49,11 @@ The main features of the website are:
 - I included Normalize.css to ensure consistent cross-browser rendering
 - Semantic HTML markup for better accessibility and search engine optimization
 
-## Status
+## 5. Status and Contributing
 
-The project is currently completed, but may be updated in the future.
-## Contact
+The project was created by Tomasz Sampławski. It is currently completed but may be updated in the future. Contributions are welcome and appreciated! 
 
-If you want to contact me you can reach me at tomasz.samplawski@gmail.com.
+Feel free to use it for your own projects or modify it to suit your needs.
+## 6. Contact
+
+If you want to contact me you can reach me at tsamplawski@gmail.com.
